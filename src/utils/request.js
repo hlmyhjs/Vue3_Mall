@@ -3,6 +3,7 @@ import store from '@/store'
 import { Toast } from 'vant'
 import { isCheckTimeout } from '@/utils/auth'
 
+axios.defaults.withCredentials = true
 const service = axios.create({
   baseURL: process.env.VUE_APP_BASE_API,
   timeout: 5000
