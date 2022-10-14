@@ -70,6 +70,11 @@ const formatAddrTitlte = computed(() =>
     border-bottom: 0.5px solid #ebedf0;
   }
 }
+.nav-center {
+  span {
+    font-size: 16px;
+  }
+}
 .nav-left {
   display: flex;
   justify-content: center;

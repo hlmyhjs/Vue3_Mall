@@ -7,3 +7,11 @@
 import SearchHistory from './components/SearchHistory'
 import HotSearch from './components/HotSearch'
 </script>
+
+<style lang="scss">
+.title-left {
+  span {
+    font-size: 16px;
+  }
+}
+</style>

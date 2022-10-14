@@ -5,7 +5,7 @@ $primary: #e02e24;
 $activePrimary: #c51e14;
 $textColor: #ffffff;
 $activeTextColor: #edbbb8;
-$grey: #9C9C9C;
+$grey: #9c9c9c;
 
 .common-btn {
   width: 90%;
@@ -14,8 +14,8 @@ $grey: #9C9C9C;
   color: $textColor;
   border: 0;
   height: 42px;
-  font-size: 1em;
-  font-family: "Microsoft YaHei";
+  font-size: 16px;
+  font-family: 'Microsoft YaHei';
 
   &:active {
     color: $activeTextColor;

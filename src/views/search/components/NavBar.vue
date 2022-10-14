@@ -163,6 +163,9 @@ input:focus {
 }
 :deep(.nav-right) {
   width: 60px;
+  span {
+    font-size: 16px;
+  }
 }
 .hide_icon_close {
   // opacity: 0;

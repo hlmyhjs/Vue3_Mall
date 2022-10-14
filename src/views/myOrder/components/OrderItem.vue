@@ -122,6 +122,7 @@ defineExpose({
         }
         .price {
           margin-top: 10px;
+          font-size: 16px;
         }
       }
     }
@@ -129,6 +130,7 @@ defineExpose({
       display: flex;
       align-items: center;
       margin-right: 5px;
+      font-size: 16px;
     }
   }
   .order-item-footer {
@@ -137,6 +139,7 @@ defineExpose({
     align-items: center;
     .left {
       margin-left: 10px;
+      font-size: 16px;
       span {
         color: $primary;
       }

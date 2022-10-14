@@ -158,6 +158,9 @@ const goDetail = (item) => {
             .line {
               font-size: 13px;
             }
+            div:nth-child(2) {
+              text-decoration: line-through;
+            }
           }
         }
         .cnt {

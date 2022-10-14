@@ -68,6 +68,7 @@ const goLogin = () => router.push('/login')
   position: relative;
   .login-bottom {
     margin-top: 15px;
+    font-size: 16px;
     span {
       padding: 5px;
     }

@@ -28,6 +28,7 @@ defineProps({
     height: 40px;
     line-height: 40px;
     position: relative;
+    font-size: 15px;
     &:before {
       background-color: $primary;
       color: $primary;

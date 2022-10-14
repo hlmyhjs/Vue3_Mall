@@ -119,6 +119,9 @@ defineExpose({
     justify-content: space-evenly;
     color: black;
     padding: 0 17px;
+    li {
+      font-size: 16px;
+    }
   }
 }
 

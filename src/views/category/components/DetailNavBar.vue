@@ -29,6 +29,11 @@ defineProps({
 .nav-bar {
   background-color: rgb(255, 255, 255);
   color: #222;
+  .nav-center {
+    span {
+      font-size: 16px;
+    }
+  }
 }
 .nav-left {
   display: flex;

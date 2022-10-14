@@ -110,7 +110,7 @@ const goPath = (item) =>
       height: 25px;
       margin-right: 8px;
       i {
-        vertical-align: middle;
+        vertical-align: -webkit-baseline-middle;
         font-size: 20px;
       }
     }

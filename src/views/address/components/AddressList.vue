@@ -109,6 +109,7 @@ const selectAddr = async (id) => {
     justify-content: space-between;
   }
   .item-top-left {
+    font-size: 16px;
     .phone {
       margin-left: 10px;
     }
@@ -186,6 +187,7 @@ const selectAddr = async (id) => {
   padding: 7px;
   text-align: center;
   color: #fff;
+  font-size: 16px;
   &:active {
     background: $activePrimary;
     color: $activeTextColor;

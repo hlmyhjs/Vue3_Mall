@@ -35,6 +35,12 @@ const goBack = () => router.back()
   }
 }
 
+.nav-center {
+  span {
+    font-size: 16px;
+  }
+}
+
 .nav-left {
   display: flex;
   justify-content: center;

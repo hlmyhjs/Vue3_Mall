@@ -31,4 +31,9 @@ const goBack = () => router.back()
     font-size: 30px;
   }
 }
+.nav-center {
+  span {
+    font-size: 16px;
+  }
+}
 </style>

@@ -1,9 +1,9 @@
 import { createApp } from 'vue'
+import 'lib-flexible/flexible'
 import App from './App.vue'
 import router from './router'
 import store from './store'
 import VueLazyload from 'vue-lazyload'
-
 // 全局样式
 import '@/assets/css/index.scss'
 // 按需引入vant
@@ -32,5 +32,4 @@ app
     attempt: 1
   })
   .mount('#app')
-
 vant(app) // 按需引入vant

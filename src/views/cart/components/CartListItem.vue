@@ -135,11 +135,12 @@ const removCart = (cartItem) => {
         white-space: nowrap;
         text-overflow: ellipsis;
         margin-bottom: 10px;
+        font-size: 16px;
       }
 
       .price {
         color: #f2270c;
-        // font-size: 14px;
+        font-size: 16px;
       }
 
       .count-remove-content {

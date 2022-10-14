@@ -50,6 +50,7 @@ const router = useRouter()
     color: #fff;
     font-weight: bold;
     flex: 1;
+    font-size: 16px;
   }
   .profile {
     color: #fff;

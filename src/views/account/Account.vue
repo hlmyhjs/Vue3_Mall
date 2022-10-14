@@ -30,6 +30,7 @@ const loginState = computed(() => user?.loginStatus)
   text-align: center;
   background: #b64e4b;
   color: #fff;
+  font-size: 16px;
 }
 
 .account {
