@@ -1,4 +1,4 @@
-[预览地址](http://106.52.197.60/#/home)
+[预览地址](http://shop-demo.xianyanbao.top)
 
 [后台管理](https://github.com/qxnldh/Vue3_Admin)
 
